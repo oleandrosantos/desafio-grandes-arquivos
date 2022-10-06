@@ -5,7 +5,7 @@ class DesafioGrandesArquivos
 {
   public static void Main(string[] args)
   {
-    //GerarArquivosDe100mbs();
+    GerarArquivosDe100mbs();
     PrintandoArquivosGrande();
   }
 
